@@ -11,9 +11,9 @@
 
 ## Work Flow:
 
-* -Connect PowerBI to Excel Data to Load and Transform data in PowerQuery*
+* Connect PowerBI to Excel Data to Load and Transform data in PowerQuery*
 
-* -Data Modelling to build Relations between the tables to establish snowflake schema.*
+* Data Modelling to build Relations between the tables to establish snowflake schema.*
 
 *Create calculated columns and key DAX measures*
 
